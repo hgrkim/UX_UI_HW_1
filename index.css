@@ -1,0 +1,105 @@
+body{
+    margin-left: 15%;
+    margin-right: 15%
+}
+
+.navigation{
+    max-width: 1300px;
+    margin: auto;
+}
+
+.logoname{
+    margin-bottom: 0px;
+    display:inline-block;
+    justify-content: center;
+}
+
+.logotitle{
+    margin-top:0px;
+}
+
+.logo img{
+    width: 100px;
+    height: 100 px;
+    float: left;
+}
+
+.links{
+    float: right;
+    list-style: none;
+    margin-top: 50px;
+}
+
+.links li{
+    display: inline-block;
+}
+
+.links li a{
+    font-family: Helvetica;
+    padding: 10px 10px;
+    text-decoration: none;
+    color: black;
+}
+
+.links li.active a{
+    font-weight: bold;
+}
+
+.links li a:hover{
+    font-weight: bold;
+}
+
+
+.work{
+    font-family: Helvetica;
+}
+
+.wfd h1{
+    margin: 0px;
+    color: #EC5550;
+}
+
+.work p{
+    font-size: 10pt;
+    width: 350px;
+    margin: 0px;
+    padding: 0px;
+}
+
+.wfd p{
+    margin: 0px;
+    padding:0px;
+}
+
+
+.mt h1{
+    margin: 0px;
+    color: #394762;
+}
+
+.work p a{
+    text-decoration: underline;
+    color: black;
+}
+
+.wfd{
+    background-color: pink;
+    width: 800px;
+}
+
+.wfdtext{
+    position: absolute;
+    right: 350px;
+    top: 200px;
+}
+
+
+
+.mttext{
+    position: absolute;
+    right: 350px;
+}
+
+
+
+
